@@ -5,7 +5,7 @@
 ---
 - [حساب گیت هاب](https://github.com/mamadbatman/)
 
-- [رزومه](https://mamadbatman.github.io/)
+- [رزومه](https://github.com/mamadbatman/mamadbatman.github.io)
 
 - [SOP](https://mamadbatman.github.io/SOP/)
 
