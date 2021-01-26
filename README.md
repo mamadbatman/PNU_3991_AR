@@ -1,15 +1,36 @@
 # PNU_3991_AR
 ---------
-### محمد امیری
+<h1 dir=rtl>
+محمد امیری
+ </h1>
+<div dir=rtl>
  
----
-- [حساب گیت هاب](https://github.com/mamadbatman/)
+- [Github](https://github.com/mamadbatman/)
 
-- [رزومه](https://github.com/mamadbatman/mamadbatman.github.io/blob/master/index.md)
+- [Resume](https://github.com/mamadbatman/mamadbatman.github.io/blob/master/index.md)
 
 - [SOP](https://github.com/mamadbatman/SOP)
+
 - [Php](https://uupload.ir/files/wvmu_whatsapp_image_2020-11-13_at_20.39.22.jpeg)
 
+------------------
+### ارزیابی ها
+
+##  بخش عمومی
+- [خلاصه ارزیابی بخش عمومی](https://github.com/ParastooTayebi/PNU_3991_AR/blob/main/General/FT_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/ParastooTayebi/PNU_3991_AR/blob/main/General/FT_CV_CheckList_AR_3991.pdf)
+##  بخش دروس کارشناسی
+- [خلاصه ارزیابی درس طراحی واسط کاربر](https://github.com/ParastooTayebi/PNU_3991_AR/blob/main/UserInterfaceDesign/FT_UserInterfaceDesgin_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس نظریه زبانها و ماشین ها](https://github.com/ParastooTayebi/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/FT_Theory-of-Languages-and-Machines_CheckList_AR_3991.pdf)
+
+------
+## گروه 
+
+1. [راضيه فياض](https://github.com/rahafyz)
+2. [علي اميري](https://github.com/aliihunter)
+3. [محمد اميري](https://github.com/mamadbatman)
+ 
+   
 ------------------
 ## Winter Semester Courses 1399/2020
 
@@ -80,10 +101,4 @@
     <th>پنج شنبه</th>
   </tr>
 </table>
-
-
-## گروه بندي
-
-1. [راضيه فياض](https://github.com/rahafyz)
-2. [علي اميري](https://github.com/aliihunter)
-3. [محمد اميري](https://github.com/mamadbatman)
+</div>
